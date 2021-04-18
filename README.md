@@ -1,0 +1,1 @@
+Chess gui with basic legality checking (fully legal move checking is implemented, but very inefficient) that allows for p2p play through a tcp connection. Port forwarding is automated through UPnP (must be enabled on IGD).
